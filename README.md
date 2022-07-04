@@ -5,6 +5,8 @@ Phantom is an exciting professional Bootstrap resume template. It’s exclusivel
 <!-- demo -->
 ## Example Site
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8ef005e3-a2b1-420b-9c50-d6ceb6f82247/deploy-status)](https://app.netlify.com/sites/portfolio-victorh-dev/deploys)
+
 | [![](screenshots/2.jpg)](https://demo.themefisher.com/phantom/) | [![](screenshots/4.jpg)](https://demo.themefisher.com/phantom/welcome.html) |  |
 |:---:|:---:|:---:|
 | **Home** | **Welcome**  | |
